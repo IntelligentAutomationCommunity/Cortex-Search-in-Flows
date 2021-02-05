@@ -12,6 +12,8 @@ Examples are:
 - Variable name used in a flow
 - Block description
 
+At the end of the search process a list with flownames is displayed, directly hyperlinking to the flow in Gateway.
+
 Always useful when you forgot in which flow you used something ;-)
 
 # Installation Instructions
